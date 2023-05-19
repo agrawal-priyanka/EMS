@@ -1,8 +1,4 @@
-import streamlit as st
-import mysql.connector
-import pandas as pd
-import datetime
-from annotated_text import annotated_text
+
 st.set_page_config(page_title="Employee Management System")
 st.title("Employee Management System")
 choice = st.sidebar.selectbox("Menu",("Home", "Employee","Admin"))
