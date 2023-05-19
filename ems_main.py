@@ -1,4 +1,4 @@
-
+import streamlit as st
 st.set_page_config(page_title="Employee Management System")
 st.title("Employee Management System")
 choice = st.sidebar.selectbox("Menu",("Home", "Employee","Admin"))
