@@ -1,4 +1,6 @@
+import mysql.connector
 import streamlit as st
+import pandas as pd
 st.set_page_config(page_title="Employee Management System")
 st.title("Employee Management System")
 choice = st.sidebar.selectbox("Menu",("Home", "Employee","Admin"))
