@@ -13,8 +13,8 @@
 #### Employee can only view their data ehich invloves personal details, leave details and final salaries after bonuses and deductions. Admins need to first enter the credentials and if it matches with database then only they can perform the following functions.
 ##### a) ADD, UPDATE, DELETE and VIEW Employee's Personal details
 ##### b) ADD, UPDATE, DELETE and VIEW Leave details
-##### b) ADD, UPDATE, DELETE and VIEW Final Salaries
-##### b) ADD, UPDATE, DELETE and VIEW Job Roles
-##### b) ADD and VIEW all Departments
+##### c) ADD, UPDATE, DELETE and VIEW Final Salaries
+##### d) ADD, UPDATE, DELETE and VIEW Job Roles
+##### e) ADD and VIEW all Departments
 
 ### To test the app you can login with the employee login details UserID = aman1234 and Password = msd0707 
