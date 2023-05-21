@@ -1,6 +1,5 @@
 # EMS
 ### My First EMS Project using tools Python, Streamlit and MySQL.
-### Here is the link to the same. https://agrawal-priyanka-ems-ems-main-9isbaa.streamlit.app/
 
 ## AIM 
 #### Aim of the project is to manage MySQL database using streamlit app.
@@ -16,5 +15,4 @@
 ##### c) ADD, UPDATE, DELETE and VIEW Final Salaries
 ##### d) ADD, UPDATE, DELETE and VIEW Job Roles
 ##### e) ADD and VIEW all Departments
-
-### To test the app you can login with the employee login details UserID = aman1234 and Password = msd0707 
+ 
