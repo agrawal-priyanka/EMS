@@ -17,7 +17,7 @@ Employees can perform the following actions
 - Apply for Leave and WFH
 - Check Leave Status and WFH Status
 - Fill Feedback Form
-But all this is subject to login credentials of admins. Employee must enter correct login credentials to get access to all these features.
+  But all this is subject to login credentials of admins. Employee must enter correct login credentials to get access to all these features.
 
 ### 2) Admins
 Admins need to first enter the credentials and if it matches with database then only they can perform the following functions.
