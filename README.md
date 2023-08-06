@@ -28,4 +28,5 @@ Admins need to first enter the credentials and if it matches with database then 
 - Check AND Grant Leaves
 - Check AND Grant WFH
 - Add and View all Departments
+  These changes will be directly reflected in MySQL database
  
