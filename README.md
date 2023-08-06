@@ -21,11 +21,11 @@ But all this is subject to login credentials of admins. Employee must enter corr
 
 ### 2) Admins
 Admins need to first enter the credentials and if it matches with database then only they can perform the following functions.
-a) ADD, UPDATE, DELETE and VIEW Employee's Personal details
-b) ADD, UPDATE, DELETE and VIEW Leave details
-c) ADD, UPDATE, DELETE and VIEW Final Salaries
-d) ADD, UPDATE, DELETE and VIEW Job Roles
-e) CHECK AND GRANT Leaves
-f) CHECK AND GRANT WFH
-g) ADD and VIEW all Departments
+- ADD, UPDATE, DELETE and VIEW Employee's Personal details
+- ADD, UPDATE, DELETE and VIEW Leave details
+- ADD, UPDATE, DELETE and VIEW Final Salaries
+- ADD, UPDATE, DELETE and VIEW Job Roles
+- CHECK AND GRANT Leaves
+- CHECK AND GRANT WFH
+- ADD and VIEW all Departments
  
